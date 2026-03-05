@@ -4,14 +4,6 @@
 
 # Elastic SIEM + EDR SOC Lab
 
-## Project Highlights
-
-- Built a **single-node SOC lab** using the Elastic Stack (Elasticsearch, Kibana, Elastic Agent).
-- Collected and analyzed **endpoint telemetry using Elastic Defend**.
-- Performed **threat hunting using KQL queries** and created a custom detection rule for network scanning activity.
-- Simulated attacker behavior using **nmap reconnaissance and privilege escalation commands**.
-- Investigated alerts and endpoint activity through **Kibana Discover and Security dashboards**.
-
 ## Overview
 
 This project demonstrates a **single-node Security Operations Center (SOC) lab** built using the Elastic Stack.  
@@ -25,6 +17,14 @@ The goal of this project was to understand how SOC analysts:
 - Build detection rules
 
 ---
+
+## Project Highlights
+
+- Built a **single-node SOC lab** using the Elastic Stack (Elasticsearch, Kibana, Elastic Agent).
+- Collected and analyzed **endpoint telemetry using Elastic Defend**.
+- Performed **threat hunting using KQL queries** and created a custom detection rule for network scanning activity.
+- Simulated attacker behavior using **nmap reconnaissance and privilege escalation commands**.
+- Investigated alerts and endpoint activity through **Kibana Discover and Security dashboards**.
 
 ## Architecture
 
